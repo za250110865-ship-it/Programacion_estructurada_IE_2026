@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'ingrese el tamaño del lote'
+5
+1
+4
+lote
+6
+1
+7
+piezas 
+1
+0
+9
+1
+13
+piezas < lote
+4
+1
+47
+'Banda EN MARCHA. Pieza detectada en el sensor'
+6
+1
+7
+piezas 
+8
+piezas+1
+4
+1
+57
+'Pieza contada. Total en el lote: ', piezas, ' de ', lote
+4
+1
+41
+'LOTE COMPLETO. PARO DE BANDA AUTOMATICO'
+4
+1
+71
+'Pulse 1 para reanudar el sistema con un nuevo lote o 0 para finalizar'
+5
+1
+9
+continuar
+11
+1
